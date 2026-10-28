@@ -95,7 +95,25 @@ h3 {
     font-size: 90px;
     border: 5px solid #6b3e26;
 }
- 
+
+.cardapio {
+	display: flex;
+	justify-content: space-between;
+
+	width: 60%;
+	border-radius: 8px;
+
+	padding: 0px 20px;
+	margin: auto;
+
+	background-color: #e8c96e;
+}
+
+.cardapio ul {
+	padding: 0 1em 0 2em;
+	margin: 0;
+}
+
 .botao,
 .produto button,
 button {
@@ -304,6 +322,7 @@ nav a {
     width: 170px;
     height: 170px;
 }
+
 
 .cadastro form {
     display: block;
