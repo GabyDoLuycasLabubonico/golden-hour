@@ -1,2 +1,2 @@
 # golden-hour
-nao
+se tive lendo isso vai pra https://gabydoluycaslabubonico.github.io/golden-hour/ pra ir pro site mermao
